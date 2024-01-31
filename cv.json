@@ -1,69 +1,96 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "name": "William Rodríguez Cruz",
+    "label": "Agile QA Engineer | QA Automation | SCRUM PSFC | ISTQB",
+    "image": "/profile.webp",
+    "email": "williamalcruz77@gmail.com",
+    "phone": "+57 3506340804",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "about": [
+      {
+        "summary": "Bilingual Quality Assurance specialist with 2+ years of experience delivering high-quality software products through meticulous manual and automated testing. Fluent in English (B2 level), I thrive in diverse and collaborative environments. Skilled in identifying, analyzing, and documenting critical bugs, collaborating effectively with cross-functional teams, and adhering to Agile methodologies (Scrum) for timely releases. Eager to leverage expertise in Cypress, Selenium, JMeter, and Hotjar to tackle complex testing challenges within a dynamic setting."
+      },
+      {
+        "title": "Testing Specialties",
+        "skills": ["•Regression", " •Integration", " •API", " •Performance"]
+      },
+      {
+        "title": "Automation Frameworks",
+        "skills": ["•Cypress (1 yr)", " •Selenium (2 yr)"]
+      },
+      {
+        "title": "Performance Testing Tools",
+        "skills": ["•Jmeter", " •Hotjar"]
+      },
+      {
+        "title": "Agile Framework",
+        "skills": ["•SCRUM (SPFC Certified)"]
+      },
+      {
+        "title": "CI/CD Tools",
+        "skills": ["•Jira", " •Azure DevOps"]
+      },
+      {
+        "title": "Database Management",
+        "skills": ["•SQL", " •MySQL", " •No SQL Databases (MongoDB, Firestore)"]
+      },
+      {
+        "title": "Programming Languages",
+        "skills": ["•JavaScript (2 yr)", " •Java (1 yr)", " •Dart (1 yr)"]
+      },
+      {
+        "title": "Other Tools",
+        "skills": ["•Postman", " •Testrail", " •Git", " •GitHub", " •Visual Studio Code"]
+      }
+    ],
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "",
+      "city": "Neiva",
       "countryCode": "ES",
-      "region": "España"
+      "region": "Colombia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "williamcruzwc",
+        "url": "https://www.linkedin.com/in/williamcruzwc/"
       },
       {
       "network": "X",
-      "username": "midudev",
-      "url": "https://x.com/midudev"
+      "username": "willycruzdo",
+      "url": "https://x.com/willycruzdo"
     },
     {
       "network": "GitHub",
-      "username": "midudev",
-      "url": "https://github.com/midudev"
+      "username": "freedomCruz",
+      "url": "https://github.com/freedomCruz"
     }
   ]
   },
   "work": [{
-    "name": "midudev",
-    "position": "Divulgador sobre Programación Web",
-    "url": "https://twitch.tv/midudev",
-    "startDate": "2021-01-01",
+    "name": "Kodevex",
+    "position": "QA Engineer",
+    "url": "",
+    "startDate": "2022-12-01",
     "endDate": null,
-    "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+    "summary": "Reduced post-release defects by 30% through proactive identification. Enhanced test coverage by 25% through implementing an automated regression testing framework using Cypress. Collaborated with developers and product managers throughout the SDLC to ensure high-quality product delivery within tight deadlines. Championed the adoption of Agile practices (Scrum), actively participating in sprint planning, daily stand-up meetings, reviews, and retrospectives.",
     "highlights": [
       "Started the company"
     ]
   },
   {
-    "name": "Adevinta",
-    "position": "Lead Frontend Architect",
-    "url": "https://twitch.tv/midudev",
-    "startDate": "2016-06-01",
-    "endDate": "2022-09-01",
-    "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+    "name": "Inkubamos",
+    "position": "Test Analyst",
+    "url": "",
+    "startDate": "2021-04-01",
+    "endDate": "2022-10-01",
+    "summary": "Utilized Selenium WebDriver to automate integration testing, increasing test execution speed by 50%. Performed rigorous API testing with Postman, uncovering and resolving API inconsistencies that improved user experience.  Employed Jmeter and Hotjar to conduct comprehensive performance testing, identifying and mitigating potential bottlenecks before release. Achieved 20% defect detection rate through rigorous manual testing, contributing to improved software quality. Maintained meticulous test case documentation, ensuring traceability and repeatability of manual testing efforts. Performed exploratory testing to identify edge cases and unexpected behaviors not covered by formal test cases. Presented clear and concise test reports, highlighting key findings and actionable recommendations for developers.",
     "highlights": [
       "Started the company"
     ]
-  },
-  {
-    "name": "Hubii",
-    "position": "Senior FrontEnd Developer",
-    "startDate": "2011-03-01",
-    "endDate": "2016-05-01",
-    "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-    "highlights": [
-      "Started the company"
-    ]
-  }],
+  }
+  ],
   "volunteer": [{
     "organization": "Organization",
     "position": "Volunteer",
@@ -76,15 +103,27 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
+    "institution": "Universidad Cooperativa de Colombia",
     "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "area": "Ingeniero de Sistemas",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2010-01-01",
+    "endDate": "2015-01-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
+    ]
+  },
+  {
+    "institution": "Universidad EAN",
+    "url": "https://www.uoc.edu/portal/es/index.html",
+    "area": "Gerencia de Proyectos - PMI",
+    "studyType": "Postgraduate",
+    "startDate": "2023-06-01",
+    "endDate": null,
+    "score": "4.0",
+    "courses": [
+      "PMI"
     ]
   }],
   "awards": [{
@@ -94,10 +133,36 @@
     "summary": "There is no spoon."
   }],
   "certificates": [{
-    "name": "Certificate",
+    "name": "SCRUM - SFPC™",
+    "date": "2024-01-07",
+    "issuer": "CertiProf",
+    "highlights": [
+      "Scrum Events",
+      "Scrum Artifacts",
+      "Lean"
+    ],
+    "url": "https://www.credly.com/badges/28e3679a-eb82-476c-9859-37b64cd763a2/linked_in_profile"
+  },
+  {
+    "name": "ISTQB® Training Foundation Level [CTFL 4.0]",
     "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "issuer": "Udemy",
+    "highlights": [
+      "Agile Testing",
+      "Quality Assurance",
+      ""
+    ],
+    "url": "https://www.udemy.com/certificate/UC-99407d10-e0ab-404d-b9d9-febddeb2f78a/"
+  },
+  {
+    "name": "Software Testing desde cero : MasterClass",
+    "date": "2021-11-07",
+    "issuer": "Udemy",
+    "highlights": [
+      "Elige tu propia aventura",
+      "En desarrollo"
+    ],
+    "url": "https://www.udemy.com/certificate/UC-10a64123-3f70-4941-96e7-33c5b6f85ec8/"
   }],
   "publications": [{
     "name": "Publication",
@@ -108,42 +173,42 @@
   }],
   "skills": [
       {
-        "name": "HTML",
+        "name": "Jira",
         "level": "Master",
         "keywords": [
           "Desarrollo Web", "Frontend"
         ]
       },
       {
-        "name": "CSS",
+        "name": "Azure DevOps",
         "level": "Master",
         "keywords": [
           "Desarrollo Web", "Frontend", "Diseño Responsive"
         ]
       },
       {
-        "name": "JavaScript",
+        "name": "Postman",
         "level": "Master",
         "keywords": [
           "Desarrollo Web", "Frontend", "Backend", "Fullstack"
         ]
       },
       {
-        "name": "Tailwind",
+        "name": "Cypress",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
         ]
       },
       {
-        "name": "TypeScript",
+        "name": "JavaScript",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
         ]
       },
       {
-        "name": "Node",
+        "name": "NodeJS",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Backend", "JavaScript", "Servidor"
