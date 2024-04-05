@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "William Rodríguez Cruz",
-    "label": "Backend Developer | Java Enthusiast | NodeJs | Angular | React | SCRUM PSFC",
+    "label": "Backend Developer | Java Enthusiast | Spring Boot | NodeJS | React - Angular | SCRUM PSFC",
     "image": "/profile.webp",
     "email": "williamalcruz77@gmail.com",
     "phone": "+57 3506340804",
@@ -66,18 +66,18 @@
     "url": "",
     "startDate": "2022-12-01",
     "endDate": null,
-    "summary": "Designed and implemented a secure authentication system using JSON Web Tokens (JWT) and Spring Security for a mission-critical application at Bugitech SAS. This ensured secure access control and a stateless authentication approach. Led the design and development of a scalable data model using JPA and Hibernate for a MySQL database, optimizing data storage and retrieval for our enterprise application at Bugitech SAS",
+    "summary": "User Management. User registration and account verification. User profile creation and management (including details, image, and password reset). Secure login with JWT-based authentication and refresh tokens. Account security measures like login attempt limits and two-factor authentication. User activity tracking for monitoring and reporting suspicious activity. Implement Role-Based Access Control (RBAC) to restrict access to application resources based on user roles and permissions",
     "highlights": [
       "Started the company"
     ]
   },
   {
-    "name": "Inkubamos",
-    "position": "Test Analyst",
+    "name": "Inkubamos S.A.S",
+    "position": "Back End Developer",
     "url": "",
     "startDate": "2021-04-01",
     "endDate": "2022-10-01",
-    "summary": "Utilized Selenium WebDriver to automate integration testing, increasing test execution speed by 50%. Performed rigorous API testing with Postman, uncovering and resolving API inconsistencies that improved user experience.  Employed Jmeter and Hotjar to conduct comprehensive performance testing, identifying and mitigating potential bottlenecks before release. Achieved 20% defect detection rate through rigorous manual testing, contributing to improved software quality. Maintained meticulous test case documentation, ensuring traceability and repeatability of manual testing efforts. Performed exploratory testing to identify edge cases and unexpected behaviors not covered by formal test cases. Presented clear and concise test reports, highlighting key findings and actionable recommendations for developers.",
+    "summary": "Designed and implemented a secure authentication system using JSON Web Tokens (JWT) and Spring Security for a mission-critical application at Inkubamos SAS. This ensured secure access control and a stateless authentication approach. Led the design and development of a scalable data model using JPA and Hibernate for a MySQL database, optimizing data storage and retrieval.",
     "highlights": [
       "Started the company"
     ]
