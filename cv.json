@@ -1,42 +1,34 @@
 {
   "basics": {
     "name": "William Rodríguez Cruz",
-    "label": "Agile QA Engineer | QA Automation | SCRUM PSFC | ISTQB",
+    "label": "Backend Developer | Java Enthusiast | NodeJs | Angular | React | SCRUM PSFC",
     "image": "/profile.webp",
     "email": "williamalcruz77@gmail.com",
     "phone": "+57 3506340804",
     "url": "https://midu.dev",
     "about": [
       {
-        "summary": "Bilingual Quality Assurance specialist with 2+ years of experience delivering high-quality software products through meticulous manual and automated testing. Fluent in English (B2 level), I thrive in diverse and collaborative environments. Skilled in identifying, analyzing, and documenting critical bugs, collaborating effectively with cross-functional teams, and adhering to Agile methodologies (Scrum) for timely releases. Eager to leverage expertise in Cypress, Selenium, JMeter, and Hotjar to tackle complex testing challenges within a dynamic setting."
+        "summary": "Bilingual Backend Developer with 2+ years of experience building robust, scalable, and secure applications using several technologies. Let me share my skills and experiences with you:"
       },
       {
-        "title": "Testing Specialties",
-        "skills": ["•Regression", " •Integration", " •API", " •Performance"]
+        "title": "Technical Skills",
+        "skills": ["•Java (2+ yr)", " •Spring Boot (2 yr)", " •Spring Security (1 yr)", " •Node Js (1 yr)"]
       },
       {
-        "title": "Automation Frameworks",
-        "skills": ["•Cypress (1 yr)", " •Selenium (2 yr)"]
+        "title": "Data Handling",
+        "skills": ["•Java Persistence API (JPA)", " •MySQL - POSTGRESQL (3 yr)", " •No SQL Databases (MongoDB, Firestore)"]
       },
       {
-        "title": "Performance Testing Tools",
-        "skills": ["•Jmeter", " •Hotjar"]
+        "title": "Programming Languages",
+        "skills": ["• JavaScript (2 yr)", " •Dart (1 yr)"]
+      },
+      {
+        "title": "Testing",
+        "skills": ["•Mockito", " •JUnit"]
       },
       {
         "title": "Agile Framework",
         "skills": ["•SCRUM (SPFC Certified)"]
-      },
-      {
-        "title": "CI/CD Tools",
-        "skills": ["•Jira", " •Azure DevOps"]
-      },
-      {
-        "title": "Database Management",
-        "skills": ["•SQL (1 yr)", " •MySQL(3 yr)", " •No SQL Databases (MongoDB, Firestore)"]
-      },
-      {
-        "title": "Programming Languages",
-        "skills": ["•JavaScript (2 yr)", " •Java (1 yr)", " •Dart (1 yr)"]
       },
       {
         "title": "Other Tools",
@@ -69,12 +61,12 @@
   ]
   },
   "work": [{
-    "name": "Kodevex",
-    "position": "QA Engineer",
+    "name": "Bugitech S.A.S",
+    "position": "Java Software Engineer",
     "url": "",
     "startDate": "2022-12-01",
     "endDate": null,
-    "summary": "Reduced post-release defects by 30% through proactive identification. Enhanced test coverage by 25% through implementing an automated regression testing framework using Cypress. Collaborated with developers and product managers throughout the SDLC to ensure high-quality product delivery within tight deadlines. Championed the adoption of Agile practices (Scrum), actively participating in sprint planning, daily stand-up meetings, reviews, and retrospectives.",
+    "summary": "Designed and implemented a secure authentication system using JSON Web Tokens (JWT) and Spring Security for a mission-critical application at Bugitech SAS. This ensured secure access control and a stateless authentication approach. Led the design and development of a scalable data model using JPA and Hibernate for a MySQL database, optimizing data storage and retrieval for our enterprise application at Bugitech SAS",
     "highlights": [
       "Started the company"
     ]
