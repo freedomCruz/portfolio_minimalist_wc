@@ -2,16 +2,52 @@
 import Section from "../Section.astro"
 
 import { skills } from "@cv"
+
+import JavaScript from "@/icons/Javascript.astro"
+import React from "@/icons/react.astro"
+import Node from "@/icons/node.astro"
+import Angular from "@/icons/angular.astro"
+import GitHub from "@/icons/GitHub.astro"
+import Git from "@/icons/git.astro"
+import Next from "@/icons/next.astro"
+import Sql from "@/icons/git.astro"
+import MySQL from "@/icons/mysql.astro"
+import Aws from "@/icons/aws.astro"
+import SpringBoot from "@/icons/springboot.astro"
+import Postman from "@/icons/postmanwc.astro"
+import Java from "@/icons/java.astro"
+
+const SKILLS_ICONS: Record<string, any> = {
+
+  JavaScript,
+  React,
+  Node,
+  Postman,
+  Java,
+  Aws,
+  Sql,
+  MySQL,
+  SpringBoot,
+  Angular,
+  Git,
+  GitHub,
+  Next,
+}
 ---
 
-<Section title="Skills">
+<Section title="Habilidades">
   <ul>
     {
-      skills.map(({ name }) => (
-        <li>
-          <span>{name}</span>
-        </li>
-      ))
+      skills.map(({ name }) => {
+        const iconName = name === "Next.js" ? "Next" : name
+        const Icon = SKILLS_ICONS[iconName]
+
+        return (
+          <li>
+            {Icon && <Icon />} <span>{name}</span>
+          </li>
+        )
+      })
     }
   </ul>
 </Section>
@@ -24,11 +60,14 @@ import { skills } from "@cv"
   }
 
   li {
-    border-radius: 6px;
+    align-items: center;
     background: #eee;
+    border-radius: 6px;
     color: black;
+    display: flex;
     font-size: 0.8rem;
     font-weight: 500;
+    gap: 4px;
     padding: 0.2rem 0.6rem;
   }
 </style>

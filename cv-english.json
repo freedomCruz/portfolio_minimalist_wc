@@ -2,36 +2,36 @@
   "basics": {
     "name": "William Rodríguez Cruz",
     "label": "Backend Developer | Java Enthusiast | Spring Boot | NodeJS | Angular - React | SCRUM PSFC",
-    "image": "/profile-cv.webp",
+    "image": "/profile-portfolio.webp",
     "email": "williamalcruz77@gmail.com",
     "phone": "+57 3506340804",
     "url": "https://midu.dev",
     "about": [
       {
-        "summary": "Desarrollador Backend bilingüe con más de 2 años de experiencia creando aplicaciones robustas, escalables y seguras utilizando diversas tecnologías. Déjame compartir mis habilidades y experiencias contigo:"
+        "summary": "Bilingual Backend Developer with 2+ years of experience building robust, scalable, and secure applications using several technologies. Let me share my skills and experiences with you:"
       },
       {
-        "title": "Habilidades Técnicas",
+        "title": "Technical Skills",
         "skills": ["•Java (2+ yr)", " •Spring Boot (2 yr)", " •Spring Security (1 yr)", " •Node Js (1 yr)"]
       },
       {
-        "title": "Manejo de Datos",
+        "title": "Data Handling",
         "skills": ["•Java Persistence API (JPA)", " •MySQL - POSTGRESQL (3 yr)", " •No SQL Databases (MongoDB, Firestore)"]
       },
       {
-        "title": "Lenguajes de Programación",
+        "title": "Programming Languages",
         "skills": ["•JavaScript (2 yr)", " •Dart (1 yr)"]
       },
       {
-        "title": "Prubas - QA",
+        "title": "Testing",
         "skills": ["•Mockito", " •JUnit"]
       },
       {
-        "title": "Marco Ágil",
+        "title": "Agile Framework",
         "skills": ["•SCRUM (SPFC Certified)"]
       },
       {
-        "title": "Otras Herramientas",
+        "title": "Other Tools",
         "skills": ["•Postman", " •Testrail", " •Git", " •GitHub", " •Visual Studio Code"]
       }
     ],
@@ -66,7 +66,7 @@
     "url": "",
     "startDate": "2022-12-01",
     "endDate": null,
-    "summary": "Realicé la implementación de registro de usuario y verificación de cuenta, creación y gestión de perfiles de usuario (incluidos detalles, imagen y restablecimiento de contraseña). Inicio de sesión seguro con autenticación basada en JWT y tokens de actualización. Medidas de seguridad de la cuenta, como límites de intentos de inicio de sesión y autenticación de dos factores. Seguimiento de la actividad del usuario para monitorear e informar actividades sospechosas. Desarrolé control de acceso basado en roles (RBAC) para restringir el acceso a los recursos de la aplicación según los roles y permisos del usuario",
+    "summary": "User Management. User registration and account verification. User profile creation and management (including details, image, and password reset). Secure login with JWT-based authentication and refresh tokens. Account security measures like login attempt limits and two-factor authentication. User activity tracking for monitoring and reporting suspicious activity. Implement Role-Based Access Control (RBAC) to restrict access to application resources based on user roles and permissions",
     "highlights": [
       "Started the company"
     ]
@@ -77,7 +77,7 @@
     "url": "",
     "startDate": "2021-04-01",
     "endDate": "2022-10-01",
-    "summary": "Diseñé e implementé un sistema de autenticación segura utilizando JSON Web Tokens (JWT) y Spring Security para una aplicación de misión crítica en Inkubamos SAS. Esto garantizó un control de acceso seguro y un enfoque de autenticación sin estado. Lideré el diseño y desarrollo de un modelo de datos escalable usando JPA e Hibernate para una base de datos MySQL, optimizando el almacenamiento y recuperación de datos.",
+    "summary": "Designed and implemented a secure authentication system using JSON Web Tokens (JWT) and Spring Security for a mission-critical application at Inkubamos SAS. This ensured secure access control and a stateless authentication approach. Led the design and development of a scalable data model using JPA and Hibernate for a MySQL database, optimizing data storage and retrieval.",
     "highlights": [
       "Started the company"
     ]
@@ -165,21 +165,14 @@
   }],
   "skills": [
       {
-        "name": "SpringBoot",
+        "name": "Spring Boot",
         "level": "Master",
         "keywords": [
           "Desarrollo Web", "Frontend"
         ]
       },
       {
-        "name": "Java",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend"
-        ]
-      },
-      {
-        "name": "Aws",
+        "name": "AWS",
         "level": "Master",
         "keywords": [
           "Desarrollo Web", "Frontend", "Diseño Responsive"
@@ -207,7 +200,7 @@
         ]
       },
       {
-        "name": "Node",
+        "name": "NodeJS",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Backend", "JavaScript", "Servidor"
@@ -269,25 +262,60 @@
   }],
   "projects": [
     {
-    "name": "invoice.app",
+    "name": "mars.codes",
     "isActive": true,
-    "description": "Gestión de facturación. Implementación de control de acceso basado en roles (RBAC) y seguridad con JWT usando Java y Spring Boot.",
+    "description": "Historia interactiva con retos de programación para viajar a Marte",
     "highlights": [
-      "Java & Spring Security",
-      "Two-Factor Authentication (2FA)",
-      "Frontend - Angular"
+      "Elige tu propia aventura",
+      "En desarrollo"
     ],
-    "url": "https://mars.codes",
-    "github": ""
+    "url": "https://mars.codes"
   }, {
-    "name": "RestAPI",
+    "name": "AdventJS",
     "isActive": true,
-    "description": "RestAPI utilizando Java Persistnece API e Hibernate, se implementa DTO Pattern y testing con Mockito.",
+    "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
     "highlights": [
-      "Spring JPA",
-      "Spring Data Validation",
-      "PostgreSQL - Java - Mockito"
+      "+1 millón de visitas",
+      "Multidioma",
+      "JavaScript & TypeScript"
     ],
     "url": "https://adventjs.dev"
-  } ]
+  }, {
+    "name": "Codember",
+    "isActive": true,
+    "description": "Juego interactivo de programación con retos y secretos",
+    "highlights": [
+      "+2000 usuarios activos",
+      "Retos para cualquier lenguaje"
+    ],
+    "url": "https://codember.dev"
+  }, {
+    "name": "codi.link",
+    "isActive": true,
+    "description": "Playground de código HTML, CSS y JavaScript para compartir",
+    "highlights": [
+      "100k visitas al mes",
+      "Desarrollado por la comunidad"
+    ],
+    "url": "https://codi.link",
+    "github": "https://github.com/midudev/codi.link"
+  }, {
+    "name": "Pruebas Técnicas",
+    "isActive": true,
+    "description": "Lista de pruebas técnicas de empresas para practicar programación",
+    "highlights": [
+      "100% gratuito",
+      "+500 soluciones de la comunidad"
+    ],
+    "url": "https://pruebastecnicas.com",
+    "github": "https://github.com/midudev/codi.link"
+  }, {
+    "name": "miduConf",
+    "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+    "highlights": [
+      "+15k tickets repartidos",
+      "+50k espectadores en directo"
+    ],
+    "url": "https://miduconf.com"
+  }]
 }
