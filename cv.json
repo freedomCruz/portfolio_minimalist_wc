@@ -66,7 +66,7 @@
     "url": "",
     "startDate": "2022-12-01",
     "endDate": null,
-    "summary": "Realicé la implementación de registro de usuario y verificación de cuenta, creación y gestión de perfiles de usuario (incluidos detalles, imagen y restablecimiento de contraseña). Inicio de sesión seguro con autenticación basada en JWT y tokens de actualización. Medidas de seguridad de la cuenta, como límites de intentos de inicio de sesión y autenticación de dos factores. Seguimiento de la actividad del usuario para monitorear e informar actividades sospechosas. Desarrolé control de acceso basado en roles (RBAC) para restringir el acceso a los recursos de la aplicación según los roles y permisos del usuario",
+    "summary": "Realicé la implementación de registro de usuario y verificación de cuenta, creación y gestión de perfiles de usuario (incluidos detalles, imagen y restablecimiento de contraseña). Inicio de sesión seguro con autenticación basada en JWT y tokens de actualización. Medidas de seguridad de la cuenta, como límites de intentos de inicio de sesión y autenticación de dos factores. Seguimiento de la actividad del usuario para monitorear e informar actividades sospechosas. Desarrollé control de acceso basado en roles (RBAC) para restringir el acceso a los recursos de la aplicación según los roles y permisos del usuario",
     "highlights": [
       "Started the company"
     ]
