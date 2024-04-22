@@ -1,30 +1,30 @@
 {
   "basics": {
     "name": "William Rodríguez Cruz",
-    "label": "Backend Developer | Java Enthusiast | Spring Boot | NodeJS | Angular - React | SCRUM PSFC",
+    "label": "Backend Developer | Java Enthusiast | Spring Boot | NodeJS | SCRUM PSFC",
     "image": "/profile-cv.webp",
     "email": "williamalcruz77@gmail.com",
     "phone": "+57 3506340804",
     "url": "https://midu.dev",
     "about": [
       {
-        "summary": "Desarrollador Backend bilingüe con más de 2 años de experiencia creando aplicaciones robustas, escalables y seguras utilizando diversas tecnologías. Déjame compartir mis habilidades y experiencias contigo:"
+        "summary": "Desarrollador Backend bilingüe con 2 años de experiencia creando aplicaciones robustas, escalables y seguras utilizando diversas tecnologías. Déjame compartir mis habilidades y experiencias contigo:"
       },
       {
         "title": "Habilidades Técnicas",
-        "skills": ["•Java (2+ yr)", " •Spring Boot (2 yr)", " •Spring Security (1 yr)", " •Node Js (1 yr)"]
+        "skills": ["•Java (2+ yr)", " •Spring Boot (1 yr)", " •Spring Security (1 yr)", " •Node Js (1 yr)"]
       },
       {
         "title": "Manejo de Datos",
-        "skills": ["•Java Persistence API (JPA)", " •MySQL - POSTGRESQL (3 yr)", " •No SQL Databases (MongoDB, Firestore)"]
+        "skills": ["•Java Persistence API (JPA)", " •MySQL - POSTGRESQL (2 yr)", " •No SQL Databases (MongoDB, Firestore)"]
       },
       {
         "title": "Lenguajes de Programación",
         "skills": ["•JavaScript (2 yr)", " •Dart (1 yr)"]
       },
       {
-        "title": "Prubas - QA",
-        "skills": ["•Mockito", " •JUnit"]
+        "title": "Pruebas - QA",
+        "skills": ["•Mockito", " •JUnit", " •Cypress"]
       },
       {
         "title": "Marco Ágil",
@@ -32,7 +32,7 @@
       },
       {
         "title": "Otras Herramientas",
-        "skills": ["•Postman", " •Testrail", " •Git", " •GitHub", " •Visual Studio Code"]
+        "skills": ["•Postman", " •Jira", " •Git", " •GitHub", " •Visual Studio Code"]
       }
     ],
     "location": {
@@ -66,7 +66,7 @@
     "url": "",
     "startDate": "2022-12-01",
     "endDate": null,
-    "summary": "Realicé la implementación de registro de usuario y verificación de cuenta, creación y gestión de perfiles de usuario (incluidos detalles, imagen y restablecimiento de contraseña). Inicio de sesión seguro con autenticación basada en JWT y tokens de actualización. Medidas de seguridad de la cuenta, como límites de intentos de inicio de sesión y autenticación de dos factores. Seguimiento de la actividad del usuario para monitorear e informar actividades sospechosas. Desarrollé control de acceso basado en roles (RBAC) para restringir el acceso a los recursos de la aplicación según los roles y permisos del usuario",
+    "summary": "Realicé la implementación de registro de usuario y verificación de cuenta, creación y gestión de perfiles de usuario. Inicio de sesión seguro con autenticación basada en JWT y tokens de actualización. Medidas de seguridad de la cuenta, como límites de intentos de inicio de sesión y autenticación de dos factores. Seguimiento de la actividad del usuario para monitorear e informar actividades sospechosas. Desarrollé control de acceso basado en roles (RBAC) para restringir el acceso a los recursos de la aplicación según los roles y permisos del usuario",
     "highlights": [
       "Started the company"
     ]
