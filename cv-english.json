@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "William Rodríguez Cruz",
-    "label": "Backend Developer | Java Enthusiast | Spring Boot | NodeJS | Angular - React | SCRUM PSFC",
+    "label": "Java Backend Developer | Spring Boot | Microservices | SCRUM PSFC",
     "image": "/profile-cv.webp",
     "email": "williamalcruz77@gmail.com",
     "phone": "+57 3506340804",
     "url": "https://midu.dev",
     "about": [
       {
-        "summary": "Bilingual Backend Developer with 2+ years of experience building robust, scalable, and secure applications using several technologies. Let me share my skills and experiences with you:"
+        "summary": "Results-driven Java Backend Developer with 2+ years of experience building secure and scalable backend applications. Leveraging a strong foundation in Object-Oriented Programming with Java, Spring Boot, and relational databases. Currently transitioning towards a mid-senior role, actively expanding my skillset in microservices architectures (Spring Cloud) and cloud technologies (AWS/Azure/GCP). Possess a solid understanding of the software development lifecycle (SDLC) and Agile methodologies (Scrum/PSFC) for efficient project delivery."
       },
       {
         "title": "Technical Skills",
-        "skills": ["•Java (2+ yr)", " •Spring Boot (2 yr)", " •Spring Security (1 yr)", " •Node Js (1 yr)"]
+        "skills": ["•Java (2+ yr)", " •Spring Boot (2 yr)", " •Spring Security (1 yr)", " •Microservices (Intermediate Understanding)", " •Cloud Technologies (Basic Understanding)"]
       },
       {
         "title": "Data Handling",
@@ -20,7 +20,7 @@
       },
       {
         "title": "Programming Languages",
-        "skills": ["•JavaScript (2 yr)", " •Dart (1 yr)"]
+        "skills": ["•Java (2+ yr)", " •Javascript (1 yr) "]
       },
       {
         "title": "Testing",
@@ -38,7 +38,7 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Neiva",
+      "city": "Bogotá",
       "countryCode": "ES",
       "region": "Colombia"
     },
@@ -164,84 +164,79 @@
     "summary": "Description…"
   }],
   "skills": [
-      {
-        "name": "Spring Boot",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend"
-        ]
-      },
-      {
-        "name": "AWS",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Diseño Responsive"
-        ]
-      },
-      {
-        "name": "Postman",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-        ]
-      },
-      {
-        "name": "Angular",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-        ]
-      },
-      {
-        "name": "JavaScript",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-        ]
-      },
-      {
-        "name": "NodeJS",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-        ]
-      },
-      {
-        "name": "MySQL",
-        "level": "Avanzado",
-        "keywords": [
-          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-        ]
-      },
-      {
-        "name": "Git",
-        "level": "Avanzado",
-        "keywords": [
-          "Control de Versiones", "Colaboración", "Código Fuente"
-        ]
-      },
-      {
-        "name": "GitHub",
-        "level": "Avanzado",
-        "keywords": [
-          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-        ]
-      },
-      {
-        "name": "Next.js",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-        ]
-      },
-      {
-        "name": "React",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-        ]
-      }
-    ],
+    {
+      "name": "Java",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "SpringBoot",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Aws",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Postman",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+   
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    }
+    
+  ],
   "languages": [{
     "language": "Spanish",
     "fluency": "Native speaker"
@@ -262,60 +257,25 @@
   }],
   "projects": [
     {
-    "name": "mars.codes",
+    "name": "invoice.app",
     "isActive": true,
-    "description": "Historia interactiva con retos de programación para viajar a Marte",
+    "description": "Gestión de facturación. Implementación de control de acceso basado en roles (RBAC) y seguridad con JWT usando Java y Spring Boot.",
     "highlights": [
-      "Elige tu propia aventura",
-      "En desarrollo"
+      "Java & Spring Security",
+      "Two-Factor Authentication (2FA)",
+      "Frontend - Angular"
     ],
-    "url": "https://mars.codes"
+    "url": "https://mars.codes",
+    "github": ""
   }, {
-    "name": "AdventJS",
+    "name": "RestAPI",
     "isActive": true,
-    "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+    "description": "RestAPI utilizando Java Persistnece API e Hibernate, se implementa DTO Pattern y testing con Mockito.",
     "highlights": [
-      "+1 millón de visitas",
-      "Multidioma",
-      "JavaScript & TypeScript"
+      "Spring JPA",
+      "Spring Data Validation",
+      "PostgreSQL - Java - Mockito"
     ],
     "url": "https://adventjs.dev"
-  }, {
-    "name": "Codember",
-    "isActive": true,
-    "description": "Juego interactivo de programación con retos y secretos",
-    "highlights": [
-      "+2000 usuarios activos",
-      "Retos para cualquier lenguaje"
-    ],
-    "url": "https://codember.dev"
-  }, {
-    "name": "codi.link",
-    "isActive": true,
-    "description": "Playground de código HTML, CSS y JavaScript para compartir",
-    "highlights": [
-      "100k visitas al mes",
-      "Desarrollado por la comunidad"
-    ],
-    "url": "https://codi.link",
-    "github": "https://github.com/midudev/codi.link"
-  }, {
-    "name": "Pruebas Técnicas",
-    "isActive": true,
-    "description": "Lista de pruebas técnicas de empresas para practicar programación",
-    "highlights": [
-      "100% gratuito",
-      "+500 soluciones de la comunidad"
-    ],
-    "url": "https://pruebastecnicas.com",
-    "github": "https://github.com/midudev/codi.link"
-  }, {
-    "name": "miduConf",
-    "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-    "highlights": [
-      "+15k tickets repartidos",
-      "+50k espectadores en directo"
-    ],
-    "url": "https://miduconf.com"
-  }]
+  } ]
 }
