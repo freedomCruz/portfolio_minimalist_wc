@@ -264,7 +264,7 @@
       "Two-Factor Authentication (2FA)",
       "Frontend - Angular"
     ],
-    "url": "https://mars.codes",
+    "url": "",
     "github": ""
   }, {
     "name": "RestAPI",
@@ -275,6 +275,6 @@
       "Spring Data Validation",
       "PostgreSQL - Java - Mockito"
     ],
-    "url": "https://adventjs.dev"
+    "url": ""
   } ]
 }
