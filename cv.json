@@ -8,11 +8,11 @@
     "url": "https://midu.dev",
     "about": [
       {
-        "summary": "Desarrollador Backend bilingüe con 2 años de experiencia creando aplicaciones robustas, escalables y seguras utilizando diversas tecnologías. Déjame compartir mis habilidades y experiencias contigo:"
+        "summary": "Desarrollador Backend de Java orientado a resultados con más de 2 años de experiencia construyendo aplicaciones backend seguras y escalables. Aprovechando una sólida base en Programación Orientada a Objetos con Java, Spring Boot y bases de datos relacionales. Actualmente en transición hacia un rol de nivel medio-senior, expandiendo activamente mi conjunto de habilidades en arquitecturas de microservicios (Spring Cloud) y tecnologías en la nube (AWS/Azure/GCP). Poseo un sólido entendimiento del ciclo de vida de desarrollo de software (SDLC) y metodologías ágiles (Scrum/PSFC) para una entrega eficiente de proyectos."
       },
       {
         "title": "Habilidades Técnicas",
-        "skills": ["•Java (2+ yr)", " •Spring Boot (1 yr)", " •Spring Security (1 yr)", " •Node Js (1 yr)"]
+        "skills": ["•Java (2+ yr)", " •Spring Boot (2 yr)", " •Spring Security (1 yr)", " •Microservices (Intermediate Understanding)", " •Cloud Technologies (Basic Understanding)"]
       },
       {
         "title": "Manejo de Datos",
@@ -20,11 +20,11 @@
       },
       {
         "title": "Lenguajes de Programación",
-        "skills": ["•JavaScript (2 yr)", " •Dart (1 yr)"]
+        "skills": ["•Java (2+ yr)", "•JavaScript (1 yr)", " •Dart (1 yr)"]
       },
       {
-        "title": "Pruebas - QA",
-        "skills": ["•Mockito", " •JUnit", " •Cypress"]
+        "title": "Testing",
+        "skills": ["•Mockito", " •JUnit"]
       },
       {
         "title": "Marco Ágil",
@@ -164,90 +164,77 @@
     "summary": "Description…"
   }],
   "skills": [
-      {
-        "name": "SpringBoot",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend"
-        ]
-      },
-      {
-        "name": "Java",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend"
-        ]
-      },
-      {
-        "name": "Aws",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Diseño Responsive"
-        ]
-      },
-      {
-        "name": "Postman",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-        ]
-      },
-      {
-        "name": "Angular",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-        ]
-      },
-      {
-        "name": "JavaScript",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-        ]
-      },
-      {
-        "name": "Node",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-        ]
-      },
-      {
-        "name": "MySQL",
-        "level": "Avanzado",
-        "keywords": [
-          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-        ]
-      },
-      {
-        "name": "Git",
-        "level": "Avanzado",
-        "keywords": [
-          "Control de Versiones", "Colaboración", "Código Fuente"
-        ]
-      },
-      {
-        "name": "GitHub",
-        "level": "Avanzado",
-        "keywords": [
-          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-        ]
-      },
-      {
-        "name": "Next.js",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-        ]
-      },
-      {
-        "name": "React",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-        ]
-      }
+    {
+      "name": "Java",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "SpringBoot",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Aws",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Postman",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Next",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+   
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    }
     ],
   "languages": [{
     "language": "Spanish",
