@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "William Rodríguez Cruz",
-    "label": "Backend Developer | Java Enthusiast | Spring Boot | NodeJS | SCRUM PSFC",
+    "label": "Java Backend Developer | Spring Boot | SCRUM PSFC",
     "image": "/profile-cv.webp",
     "email": "williamalcruz77@gmail.com",
     "phone": "+57 3506340804",
     "url": "https://midu.dev",
     "about": [
       {
-        "summary": "Desarrollador Backend de Java orientado a resultados con más de 2 años de experiencia construyendo aplicaciones backend seguras y escalables. Aprovechando una sólida base en Programación Orientada a Objetos con Java, Spring Boot y bases de datos relacionales. Actualmente en transición hacia un rol de nivel medio-senior, expandiendo activamente mi conjunto de habilidades en arquitecturas de microservicios (Spring Cloud) y tecnologías en la nube (AWS/Azure/GCP). Poseo un sólido entendimiento del ciclo de vida de desarrollo de software (SDLC) y metodologías ágiles (Scrum/PSFC) para una entrega eficiente de proyectos."
+        "summary": "Desarrollador Backend de Java orientado a resultados con más de 1 años de experiencia construyendo aplicaciones backend seguras y escalables. Aprovechando una sólida base en Programación Orientada a Objetos con Java, Spring Boot y bases de datos relacionales. Actualmente expandiendo y profundizando en microservicios (Spring Cloud) y tecnologías en la nube (AWS/Azure). Poseo un sólido entendimiento del ciclo de vida de desarrollo de software (SDLC) y metodologías ágiles (Scrum/PSFC) para una entrega eficiente de proyectos."
       },
       {
         "title": "Habilidades Técnicas",
-        "skills": ["•Java (2+ yr)", " •Spring Boot (2 yr)", " •Spring Security (1 yr)", " •Microservices (Intermediate Understanding)", " •Cloud Technologies (Basic Understanding)"]
+        "skills": ["•Java (1+ yr)", " •Spring Boot (1 yr)", " •Spring Security (básico)", " •Microservices (en formación)", " •Cloud Technologies (básico)"]
       },
       {
         "title": "Manejo de Datos",
@@ -32,7 +32,7 @@
       },
       {
         "title": "Otras Herramientas",
-        "skills": ["•Postman", " •Jira", " •Git", " •GitHub", " •Visual Studio Code"]
+        "skills": ["•Postman", " •Jira", " •Git", " •GitHub", " •Docker", " •Swagger", " •MySQL Workbench", " •IntelliJ", " •NeoVim", " •Visual Studio Code"]
       }
     ],
     "location": {
@@ -186,6 +186,13 @@
       ]
     },
     {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
       "name": "Aws",
       "level": "Master",
       "keywords": [
@@ -200,14 +207,28 @@
       ]
     },
     {
-      "name": "JavaScript",
+      "name": "Angular",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
-      "name": "Next",
+      "name": "Jenkins",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Junit",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "JavaScript",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
