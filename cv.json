@@ -8,7 +8,7 @@
     "url": "https://midu.dev",
     "about": [
       {
-        "summary": "Desarrollador Backend de Java orientado a resultados con más de 1 años de experiencia construyendo aplicaciones backend seguras y escalables. Aprovechando una sólida base en Programación Orientada a Objetos con Java, Spring Boot y bases de datos relacionales. Actualmente expandiendo y profundizando en microservicios (Spring Cloud) y tecnologías en la nube (AWS/Azure). Poseo un sólido entendimiento del ciclo de vida de desarrollo de software (SDLC) y metodologías ágiles (Scrum/PSFC) para una entrega eficiente de proyectos."
+        "summary": "Desarrollador Backend de Java orientado a resultados con más de 1 año de experiencia construyendo aplicaciones backend seguras y escalables. Aprovechando una sólida base en Programación Orientada a Objetos con Java, Spring Boot y bases de datos relacionales. Actualmente expandiendo y profundizando en microservicios (Spring Cloud) y tecnologías en la nube (AWS/Azure). Poseo un sólido entendimiento del ciclo de vida de desarrollo de software (SDLC) y metodologías ágiles (Scrum/PSFC) para una entrega eficiente de proyectos."
       },
       {
         "title": "Habilidades Técnicas",
@@ -20,7 +20,7 @@
       },
       {
         "title": "Lenguajes de Programación",
-        "skills": ["•Java (2+ yr)", "•JavaScript (1 yr)", " •Dart (1 yr)"]
+        "skills": ["•Java (2+ yr)", "•PhP (1 yr)", " •Javascript (1 yr)"]
       },
       {
         "title": "Testing",
@@ -38,7 +38,7 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Neiva",
+      "city": "Bogotá",
       "countryCode": "ES",
       "region": "Colombia"
     },
